@@ -10,8 +10,8 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 Cosas necesarias para instalar el software y como instalarlas:
 
-Instala Boostrap con el siguiente comando en la terminal
-     -npm install react-bootstrap bootstrap@5.1.3
+Instala Boostrap con el siguiente comando en la terminal\
+-npm install react-bootstrap bootstrap@5.1.3
 
 Descarga e instala [NodeJS](https://nodejs.org/en/download) segun tu sistema operativo
 
@@ -20,6 +20,6 @@ Descarga e instala [NodeJS](https://nodejs.org/en/download) segun tu sistema ope
 
 Abre [http://localhost:3000](http://localhost:3000) para inicializar el servidor y visualiza en tu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Esta página se actualizará cuando hagas cambios en la aplicación.
+
 
