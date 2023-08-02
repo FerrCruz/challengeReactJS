@@ -26,5 +26,5 @@ Esta página se actualizará cuando hagas cambios en la aplicación.
 Fernando Cruz - Desarrollo de codigo - [FerrCruz](https://github.com/FerrCruz)
 
 ## Documentación consultada
--[Boostrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/).
+-[Boostrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/).\
 -[ReactJs](https://legacy.reactjs.org/docs/getting-started.html).
