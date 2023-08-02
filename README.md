@@ -1,7 +1,5 @@
 # Challenge ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Comenzando
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
