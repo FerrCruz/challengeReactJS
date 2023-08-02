@@ -8,7 +8,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 ### Pre-requisitos 📋
 
-Cosas necesarias para instalar el software y como instalarlas:
+Cosas necesarias para instalar la aplicación y como instalarlas:
 
 Instala Boostrap con el siguiente comando en la terminal\
 -npm install react-bootstrap bootstrap@5.1.3
