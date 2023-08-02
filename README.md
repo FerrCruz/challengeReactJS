@@ -16,7 +16,8 @@ Descarga e instala [NodeJS](https://nodejs.org/en/download) segun tu sistema ope
 Por ultimo instala npm ejecutando el siguiente codigo en la terminal de comandos:\
      npm install -g npm
 
-### `Ejecuta comando npm start en la terminal cmd dentro de la carpeta del proyecto creado`
+### `Ejecuta comando npm start en la terminal cmd dentro de la carpeta del proyecto creado
+![Alt text](/img/npmStart.jpg)`
 
 Abre [http://localhost:3000](http://localhost:3000) para inicializar el servidor y visualiza en tu navegador.
 
