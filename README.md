@@ -23,7 +23,7 @@ Abre [http://localhost:3000](http://localhost:3000) para inicializar el servidor
 Esta página se actualizará cuando hagas cambios en la aplicación.
 
 ## Autor
-     Fernando Cruz - Desarrollo de codigo - [FerrCruz](https://github.com/FerrCruz)
+Fernando Cruz - Desarrollo de codigo - [FerrCruz](https://github.com/FerrCruz)
 
 ## Documentación consultada
 -[Boostrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/).
