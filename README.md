@@ -30,3 +30,9 @@ Fernando Cruz - Desarrollo de codigo - [FerrCruz](https://github.com/FerrCruz)
 ## Documentación consultada
 -[Boostrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/).\
 -[ReactJs](https://legacy.reactjs.org/docs/getting-started.html).
+
+## Conclusión
+
+Si bien me falto realizar uno de los ultimos puntos que constaba del uso de paginacion para el muestreo de los clientes restantes a consultar\
+fue una buena práctica y desafío ya que trataba de manejar el consumo de datos mediante la API y refactorizar o desarrollar el codigo HTML y JavaScript\
+contemplando las promesas, props, componentes y hooks. Tiene su propia nomenclatura y sintaxis de código ReactJs.
