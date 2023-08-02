@@ -24,7 +24,7 @@ Abre [http://localhost:3000](http://localhost:3000) para inicializar el servidor
 
 Esta pagina se actualiza cuando hagas cambios en la aplicacion.
 
-Cuando realize click en cualquiera de los clientes a consultar se le presentar¨¢ como la siguiente imagen:
+Cuando realize click en cualquiera de los clientes a consultar se le presentara como la siguiente imagen:
 ![Alt text](/img/detallesCliente.jpg)
 
 ## Autor
