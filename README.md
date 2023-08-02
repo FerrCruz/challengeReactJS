@@ -20,6 +20,7 @@ Por ultimo instala npm ejecutando el siguiente codigo en la terminal de comandos
 ![Alt text](/img/npmStart.jpg)
 
 Abre [http://localhost:3000](http://localhost:3000) para inicializar el servidor y visualiza en tu navegador.
+![Alt text](/img/localhost3000.jpg)
 
 Esta página se actualizará cuando hagas cambios en la aplicación.
 
