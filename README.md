@@ -36,6 +36,6 @@ Fernando Cruz - Desarrollo de codigo - [FerrCruz](https://github.com/FerrCruz)
 
 ## Conclusion
 
-Si bien me falto realizar uno de los ultimos puntos que constaba del uso de paginacion para el muestreo de los clientes restantes a consultar
+Si bien me falto realizar uno de los ultimos puntos que constaba del uso de paginacion para el muestreo de los clientes restantes a consultar y los tests
 , fue una buena practica y desafio ya que trataba de manejar el consumo de datos mediante la API y refactorizar o desarrollar el codigo HTML y JavaScript
 contemplando las promesas, props, componentes y hooks. Tiene su propia nomenclatura y sintaxis de codigo ReactJs.
